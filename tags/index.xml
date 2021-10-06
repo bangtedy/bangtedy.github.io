@@ -6,25 +6,7 @@
     <description>Recent content in Tags on Merdeka Belajar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bangtedy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Basic Elements</title>
-      <link>https://bangtedy.github.io/tags/basic-elements/</link>
-      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bangtedy.github.io/tags/basic-elements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>https://bangtedy.github.io/tags/development/</link>
-      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bangtedy.github.io/tags/development/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://bangtedy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>plot</title>
       <link>https://bangtedy.github.io/tags/plot/</link>
@@ -53,6 +35,15 @@
     </item>
     
     <item>
+      <title>Basic Elements</title>
+      <link>https://bangtedy.github.io/tags/basic-elements/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bangtedy.github.io/tags/basic-elements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CSS</title>
       <link>https://bangtedy.github.io/tags/css/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
@@ -67,6 +58,15 @@
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://bangtedy.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://bangtedy.github.io/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://bangtedy.github.io/tags/development/</guid>
       <description></description>
     </item>
     
