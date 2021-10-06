@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Merdeka Belajar</title>
+    <link>https://bangtedy.github.io/categories/r/</link>
+    <description>Recent content in R on Merdeka Belajar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bangtedy.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to contact me</title>
+      <link>https://bangtedy.github.io/post/2021-10-06-how-to-contact-me/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bangtedy.github.io/post/2021-10-06-how-to-contact-me/</guid>
+      <description>from git desktop n branch main Your branch is based on &amp;lsquo;origin/main&amp;rsquo;, but the upstream is gone. (use &amp;ldquo;git branch &amp;ndash;unset-upstream&amp;rdquo; to fixup)
+Untracked files: (use &amp;ldquo;git add &amp;hellip;&amp;rdquo; to include in what will be committed) content/matkul/
+nothing added to commit but untracked files present (use &amp;ldquo;git add&amp;rdquo; to track)
+&amp;hellip; from github site …or create a new repository on the command line
+echo &amp;ldquo;# bangtedy.github.io&amp;rdquo; &amp;raquo; README.md git init git add README.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://bangtedy.github.io/post/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://bangtedy.github.io/post/2020-12-01-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
+    </item>
+    
+  </channel>
+</rss>
