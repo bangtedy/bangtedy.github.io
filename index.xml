@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Merdeka Belajar</title>
-    <link>https://example.com/</link>
+    <link>https://bangtedy.github.io/</link>
     <description>Recent content on Merdeka Belajar</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 08 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bangtedy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mobilisasi Aset</title>
-      <link>https://example.com/post/2021-10-08-mobilisasi-aset/</link>
+      <link>https://bangtedy.github.io/post/2021-10-08-mobilisasi-aset/</link>
       <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/2021-10-08-mobilisasi-aset/</guid>
+      <guid>https://bangtedy.github.io/post/2021-10-08-mobilisasi-aset/</guid>
       <description>
         
           &lt;p&gt;&lt;strong&gt;Bisnis itu simpel.&lt;/strong&gt;&lt;/p&gt;
@@ -77,10 +77,10 @@
     
     <item>
       <title>Using Notices</title>
-      <link>https://example.com/post/notices/</link>
+      <link>https://bangtedy.github.io/post/notices/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/notices/</guid>
+      <guid>https://bangtedy.github.io/post/notices/</guid>
       <description>
         
           &lt;p&gt;The &amp;quot;Notices&amp;quot; shortcode enables you to call out pieces of information - sidebars, warnings, tips, etc.&lt;/p&gt;
@@ -147,7 +147,7 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     &lt;div class=&#34;label&#34;&gt;Productivity Booster!&lt;/div&gt;
     &lt;p&gt;If you&#39;re using VS Code for your editing, copy the &lt;code&gt;.vscode\clarity.code-snippets&lt;/code&gt; file into a &lt;code&gt;.vscode&lt;/code&gt; root folder on your repo.  This will enable you to type
 &lt;code&gt;note&lt;/code&gt; then &lt;code&gt;&amp;lt;tab&amp;gt;&lt;/code&gt; then choose with up/down arrows which flavor notice you want, then &lt;code&gt;&amp;lt;tab&amp;gt;&lt;/code&gt; again to provide a title, then &lt;code&gt;&amp;lt;tab&amp;gt;&lt;/code&gt; to add your content!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.com/images/Note-Snippet.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bangtedy.github.io/images/Note-Snippet.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;To use the snippet, you need to first &lt;strong&gt;enable quickSuggestions for Markdown&lt;/strong&gt; (one time only):&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Go to &lt;code&gt;Preferences-&amp;gt;Settings&lt;/code&gt; then search for &lt;code&gt;quickSuggestions&lt;/code&gt;&lt;/li&gt;
@@ -170,14 +170,14 @@ note in quotes as the second parameter.  The inner body of the note can be whate
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://example.com/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://bangtedy.github.io/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://example.com/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://bangtedy.github.io/post/2020-12-01-r-rmarkdown/</guid>
       <description>
         
           
-&lt;script src=&#34;https://example.com/post/2020-12-01-r-rmarkdown/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://bangtedy.github.io/post/2020-12-01-r-rmarkdown/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
@@ -213,7 +213,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://example.com/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://bangtedy.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -226,10 +226,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://example.com/post/markdown-syntax/</link>
+      <link>https://bangtedy.github.io/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/markdown-syntax/</guid>
+      <guid>https://bangtedy.github.io/post/markdown-syntax/</guid>
       <description>
         
           &lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
@@ -378,10 +378,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Rich Content</title>
-      <link>https://example.com/post/rich-content/</link>
+      <link>https://bangtedy.github.io/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/rich-content/</guid>
+      <guid>https://bangtedy.github.io/post/rich-content/</guid>
       <description>
         
           &lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
@@ -464,10 +464,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://example.com/post/placeholder-text/</link>
+      <link>https://bangtedy.github.io/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/placeholder-text/</guid>
+      <guid>https://bangtedy.github.io/post/placeholder-text/</guid>
       <description>
         
           &lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
@@ -499,10 +499,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://example.com/post/math-typesetting/</link>
+      <link>https://bangtedy.github.io/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/math-typesetting/</guid>
+      <guid>https://bangtedy.github.io/post/math-typesetting/</guid>
       <description>
         
           &lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
@@ -533,10 +533,10 @@ $$&lt;/p&gt;
     
     <item>
       <title>Emoji Support</title>
-      <link>https://example.com/post/emoji-support/</link>
+      <link>https://bangtedy.github.io/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/emoji-support/</guid>
+      <guid>https://bangtedy.github.io/post/emoji-support/</guid>
       <description>
         
           &lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
