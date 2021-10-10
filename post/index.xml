@@ -422,42 +422,6 @@ Figure 1: A fancy pie chart.
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;“In addition to being more logical, asymmetry has the advantage that its complete appearance is far more optically effective than symmetry.”&lt;br&gt;— Jan Tschichold &lt;a href=&#34;https://t.co/gcv7SrhvJb&#34;&gt;pic.twitter.com/gcv7SrhvJb&lt;/a&gt;&lt;/p&gt;&amp;mdash; Graphic Design History (@DesignReviewed) &lt;a href=&#34;https://twitter.com/DesignReviewed/status/1085870671291310081?ref_src=twsrc%5Etfw&#34;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
 
 &lt;br&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;vimeo-simple-shortcode&#34;&gt;Vimeo Simple Shortcode&lt;/h2&gt;
-
-
-
-
-
-
-&lt;style&gt;
-.__h_video {
-   position: relative;
-   padding-bottom: 56.23%;
-   height: 0;
-   overflow: hidden;
-   width: 100%;
-   background: #000;
-}
-.__h_video img {
-   width: 100%;
-   height: auto;
-   color: #000;
-}
-.__h_video .play {
-   height: 72px;
-   width: 72px;
-   left: 50%;
-   top: 50%;
-   margin-left: -36px;
-   margin-top: -36px;
-   position: absolute;
-   cursor: pointer;
-}
-&lt;/style&gt;
-
-
-&lt;div class=&#34;s_video_simple __h_video&#34;&gt;
         
       </description>
     </item>
