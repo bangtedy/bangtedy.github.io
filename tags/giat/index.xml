@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>giat on Merdeka Belajar</title>
+    <link>http://example.org/tags/giat/</link>
+    <description>Recent content in giat on Merdeka Belajar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/giat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Giat Akademika</title>
+      <link>http://example.org/post/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/hugoisforlovers/</guid>
+      <description>Pengampu beberapa mata kuliah yang berhubungan ekonomi dan manajemen terapan, keuangan dan ekonometrika:
+- Mikroekonomi - Makroekonomi - Sistem Ekonomi - Ekonometrika - Manajemen Risiko - Analisis Investasi - Kewirausahaan - Manajemen Pemasaran </description>
+    </item>
+    
+  </channel>
+</rss>
