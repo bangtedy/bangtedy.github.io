@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>akademika on Merdeka Belajar</title>
-    <link>http://example.org/tags/akademika/</link>
+    <link>https://bangtedy.github.io/tags/akademika/</link>
     <description>Recent content in akademika on Merdeka Belajar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/akademika/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://bangtedy.github.io/tags/akademika/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Giat Akademika</title>
-      <link>http://example.org/post/hugoisforlovers/</link>
+      <link>https://bangtedy.github.io/post/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/hugoisforlovers/</guid>
+      <guid>https://bangtedy.github.io/post/hugoisforlovers/</guid>
       <description>Pengampu beberapa mata kuliah yang berhubungan ekonomi dan manajemen terapan, keuangan dan ekonometrika:
 - Mikroekonomi - Makroekonomi - Sistem Ekonomi - Ekonometrika - Manajemen Risiko - Analisis Investasi - Kewirausahaan - Manajemen Pemasaran </description>
     </item>
