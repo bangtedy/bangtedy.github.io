@@ -2,116 +2,135 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Merdeka Belajar</title>
-    <link>https://bangtedy.github.io/tags/</link>
+    <link>https://tedyh.netlify.app/tags/</link>
     <description>Recent content in Tags on Merdeka Belajar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bangtedy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Tedy Herlambang</copyright>
+    <lastBuildDate>Sun, 27 Jun 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://tedyh.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>bisnis</title>
-      <link>https://bangtedy.github.io/tags/bisnis/</link>
-      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      <title>test</title>
+      <link>https://tedyh.netlify.app/tags/test/</link>
+      <pubDate>Sun, 27 Jun 2021 09:00:00 +0000</pubDate>
       
-      <guid>https://bangtedy.github.io/tags/bisnis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>investasi</title>
-      <link>https://bangtedy.github.io/tags/investasi/</link>
-      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bangtedy.github.io/tags/investasi/</guid>
+      <guid>https://tedyh.netlify.app/tags/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>https://bangtedy.github.io/tags/plot/</link>
+      <link>https://tedyh.netlify.app/tags/plot/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://bangtedy.github.io/tags/plot/</guid>
+      <guid>https://tedyh.netlify.app/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://bangtedy.github.io/tags/r-markdown/</link>
+      <link>https://tedyh.netlify.app/tags/r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://bangtedy.github.io/tags/r-markdown/</guid>
+      <guid>https://tedyh.netlify.app/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>https://bangtedy.github.io/tags/regression/</link>
+      <link>https://tedyh.netlify.app/tags/regression/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://bangtedy.github.io/tags/regression/</guid>
+      <guid>https://tedyh.netlify.app/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>development</title>
-      <link>https://bangtedy.github.io/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
+      <title>Algorithms</title>
+      <link>https://tedyh.netlify.app/tags/algorithms/</link>
+      <pubDate>Sat, 06 Jun 2020 09:00:00 +0000</pubDate>
       
-      <guid>https://bangtedy.github.io/tags/development/</guid>
+      <guid>https://tedyh.netlify.app/tags/algorithms/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>go</title>
-      <link>https://bangtedy.github.io/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
+      <title>programming language</title>
+      <link>https://tedyh.netlify.app/tags/programming-language/</link>
+      <pubDate>Wed, 29 Apr 2020 09:00:00 +0000</pubDate>
       
-      <guid>https://bangtedy.github.io/tags/go/</guid>
+      <guid>https://tedyh.netlify.app/tags/programming-language/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>golang</title>
-      <link>https://bangtedy.github.io/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
+      <title>racket</title>
+      <link>https://tedyh.netlify.app/tags/racket/</link>
+      <pubDate>Sat, 29 Feb 2020 09:00:00 +0000</pubDate>
       
-      <guid>https://bangtedy.github.io/tags/golang/</guid>
+      <guid>https://tedyh.netlify.app/tags/racket/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>templates</title>
-      <link>https://bangtedy.github.io/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
+      <title>SML</title>
+      <link>https://tedyh.netlify.app/tags/sml/</link>
+      <pubDate>Mon, 30 Dec 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://bangtedy.github.io/tags/templates/</guid>
+      <guid>https://tedyh.netlify.app/tags/sml/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>themes</title>
-      <link>https://bangtedy.github.io/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
+      <title>RPA</title>
+      <link>https://tedyh.netlify.app/tags/rpa/</link>
+      <pubDate>Sat, 23 Nov 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://bangtedy.github.io/tags/themes/</guid>
+      <guid>https://tedyh.netlify.app/tags/rpa/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>akademika</title>
-      <link>https://bangtedy.github.io/tags/akademika/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>JavaScript</title>
+      <link>https://tedyh.netlify.app/tags/javascript/</link>
+      <pubDate>Sun, 10 Nov 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://bangtedy.github.io/tags/akademika/</guid>
+      <guid>https://tedyh.netlify.app/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>giat</title>
-      <link>https://bangtedy.github.io/tags/giat/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Vue.js</title>
+      <link>https://tedyh.netlify.app/tags/vue.js/</link>
+      <pubDate>Fri, 25 Jan 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://bangtedy.github.io/tags/giat/</guid>
+      <guid>https://tedyh.netlify.app/tags/vue.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>php</title>
+      <link>https://tedyh.netlify.app/tags/php/</link>
+      <pubDate>Wed, 11 Jan 2017 18:39:17 +0000</pubDate>
+      
+      <guid>https://tedyh.netlify.app/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ruby</title>
+      <link>https://tedyh.netlify.app/tags/ruby/</link>
+      <pubDate>Thu, 08 Dec 2016 22:54:49 +0000</pubDate>
+      
+      <guid>https://tedyh.netlify.app/tags/ruby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://tedyh.netlify.app/tags/linux/</link>
+      <pubDate>Tue, 29 Nov 2016 21:08:52 +0000</pubDate>
+      
+      <guid>https://tedyh.netlify.app/tags/linux/</guid>
       <description></description>
     </item>
     
