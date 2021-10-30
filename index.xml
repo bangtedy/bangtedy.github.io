@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Merdeka Belajar</title>
-    <link>https://tedyh.netlify.app/</link>
+    <link>https://bangtedy.github.io/</link>
     <description>Recent content on Merdeka Belajar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Tedy Herlambang</copyright>
-    <lastBuildDate>Sat, 30 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tedyh.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bangtedy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Penyalur Kebaikan</title>
-      <link>https://tedyh.netlify.app/posts/2021-10-30-penyalur-kebaikan/</link>
+      <link>https://bangtedy.github.io/posts/2021-10-30-penyalur-kebaikan/</link>
       <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://tedyh.netlify.app/posts/2021-10-30-penyalur-kebaikan/</guid>
+      <guid>https://bangtedy.github.io/posts/2021-10-30-penyalur-kebaikan/</guid>
       <description>Kekayaan &amp;ldquo;tercipta&amp;rdquo;&amp;quot; ketika suatu aset pindah dari nilai pemakaian rendah ke tinggi1.
 Setiap aset yang kurang termanfaatkan merupakan potensi untuk transaksi yang menghasilkan kekayaaan. Penyalur TKI memindahkan ribuan orang dari nilai pemakaian &amp;ldquo;rendah&amp;rdquo; ke nilai pemakaian yang lebih &amp;ldquo;tinggi&amp;rdquo;.
 Sains dan seninya adalah mengindentifikasi aset-aset ini kemudian menemukan tempat/pembeli yang menilai lebih tinggi.
@@ -22,10 +22,10 @@ Bagi seorang calon pembeli kursi, nilai kursi yang ingin dibeli adalah rupiah te
     
     <item>
       <title>About me</title>
-      <link>https://tedyh.netlify.app/about/</link>
+      <link>https://bangtedy.github.io/about/</link>
       <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
       
-      <guid>https://tedyh.netlify.app/about/</guid>
+      <guid>https://bangtedy.github.io/about/</guid>
       <description>Saya mengampu beberapa mata kuliah yang berhubungan ekonomi dan manajemen terapan, keuangan dan ekonometrika:
 - Mikroekonomi - Makroekonomi - Sistem Ekonomi - Ekonometrika - Manajemen Risiko - Analisis Investasi - Kewirausahaan - Manajemen Pemasaran </description>
     </item>
