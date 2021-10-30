@@ -6,6 +6,34 @@
     <description>Recent content in Categories on Merdeka Belajar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Tedy Herlambang</copyright><atom:link href="https://bangtedy.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Tedy Herlambang</copyright>
+    <lastBuildDate>Sat, 30 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bangtedy.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bisnis</title>
+      <link>https://bangtedy.github.io/categories/bisnis/</link>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bangtedy.github.io/categories/bisnis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>investasi</title>
+      <link>https://bangtedy.github.io/categories/investasi/</link>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bangtedy.github.io/categories/investasi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kekayaan</title>
+      <link>https://bangtedy.github.io/categories/kekayaan/</link>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bangtedy.github.io/categories/kekayaan/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
