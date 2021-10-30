@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "C:/Users/Anna/Documents/BLOG-SOURCES/kaktus",
+	"sourceRoot": "C:/Users/Anna/Documents/BLOG-SOURCES/Blog-backup/cactus",
 	"sources": [
 		"themes/hugo-theme-cactus/assets/scss/style.scss",
 		"themes/hugo-theme-cactus/assets/scss/_variables.scss",
