@@ -1,41 +1,173 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://bangtedy.github.io/tags/bisnis/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bangtedy.github.io/categories/bisnis/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bangtedy.github.io/categories/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bangtedy.github.io/tags/investasi/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bangtedy.github.io/categories/investasi/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bangtedy.github.io/tags/kebaikan/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bangtedy.github.io/categories/kekayaan/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bangtedy.github.io/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bangtedy.github.io/posts/2021-10-30-penyalur-kebaikan/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bangtedy.github.io/posts/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bangtedy.github.io/tags/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bangtedy.github.io/about/</loc>
-    <lastmod>2016-08-24T17:51:42+00:00</lastmod>
-  </url>
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/tags/bisnis/</loc>
+            <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/categories/bisnis/</loc>
+            <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/categories/</loc>
+            <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/tags/investasi/</loc>
+            <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/categories/investasi/</loc>
+            <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/</loc>
+            <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/posts/2021-10-31-penyalur-kebaikan/</loc>
+            <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/posts/</loc>
+            <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/tags/</loc>
+            <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/posts/2020-12-01-r-rmarkdown/</loc>
+            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/tags/plot/</loc>
+            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/categories/r/</loc>
+            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/tags/r-markdown/</loc>
+            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/tags/regression/</loc>
+            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/photos/</loc>
+            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/photos/warsaw-poland/</loc>
+            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/photos/hel-poland-3/</loc>
+            <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/photos/hel-poland-2/</loc>
+            <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/photos/arizona-us/</loc>
+            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/photos/chicago-us/</loc>
+            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/photos/panaji-india-2/</loc>
+            <lastmod>2020-01-07T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/posts/what-is-hugo/</loc>
+            <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/posts/introduction/</loc>
+            <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://bangtedy.github.io/about/</loc>
+            <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+        </url>
+        
+    
 </urlset>
