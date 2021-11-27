@@ -20,17 +20,6 @@ Bagi seorang calon pembeli kursi, nilai kursi yang ingin dibeli adalah rupiah te
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>https://bangtedy.github.io/posts/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>https://bangtedy.github.io/posts/2020-12-01-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
-    </item>
-    
-    <item>
       <title>Warsaw, Poland</title>
       <link>https://bangtedy.github.io/photos/warsaw-poland/</link>
       <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
@@ -85,24 +74,6 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     </item>
     
     <item>
-      <title>Introduction</title>
-      <link>https://bangtedy.github.io/posts/what-is-hugo/</link>
-      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://bangtedy.github.io/posts/what-is-hugo/</guid>
-      <description>&lt;p&gt;Hugo is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Hugo even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>What is Hugo</title>
-      <link>https://bangtedy.github.io/posts/introduction/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://bangtedy.github.io/posts/introduction/</guid>
-      <description>&lt;p&gt;Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://bangtedy.github.io/about/</link>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
@@ -111,8 +82,7 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <description>Saya mengampu beberapa mata kuliah yang berhubungan ekonomi dan manajemen terapan, keuangan dan ekonometrika.
 Buku-buku yang sedang saya tulis antara lain:
  Analisis Faktor Analisis Regresi  Presentation slides:
- Mikroekonomi Makroekonomi Sistem Ekonomi Ekonometrika Manajemen Risiko Analisis Investasi Manajemen Pemasaran  License Copyright © 2020 Tedy Herlambang
-The theme is released under the MIT License. Check the original theme license for additional licensing information.</description>
+ Mikroekonomi Makroekonomi Sistem Ekonomi Ekonometrika Manajemen Risiko Analisis Investasi Manajemen Pemasaran  License Copyright © 2021 Tedy Herlambang</description>
     </item>
     
   </channel>
