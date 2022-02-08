@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Merdeka Belajar</title>
+    <title>Tags on TH</title>
     <link>https://bangtedy.github.io/tags/</link>
-    <description>Recent content in Tags on Merdeka Belajar</description>
+    <description>Recent content in Tags on TH</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 31 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bangtedy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>bangtedy@gmail.com (Tedy Herlambang)</managingEditor>
+    <webMaster>bangtedy@gmail.com (Tedy Herlambang)</webMaster>
+    <lastBuildDate>Tue, 08 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bangtedy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bisnis</title>
       <link>https://bangtedy.github.io/tags/bisnis/</link>
-      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      <author>bangtedy@gmail.com (Tedy Herlambang)</author>
       <guid>https://bangtedy.github.io/tags/bisnis/</guid>
       <description></description>
     </item>
@@ -19,8 +20,8 @@
     <item>
       <title>investasi</title>
       <link>https://bangtedy.github.io/tags/investasi/</link>
-      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      <author>bangtedy@gmail.com (Tedy Herlambang)</author>
       <guid>https://bangtedy.github.io/tags/investasi/</guid>
       <description></description>
     </item>
