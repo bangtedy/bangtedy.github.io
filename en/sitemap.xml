@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://bangtedy.github.io/en/showcase/hugo/hugo-theme-zzo/</loc>
+    <loc>http://bangtedy.github.io/en/showcase/teaching/hugo-theme-zdoc/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url><url>
-    <loc>http://bangtedy.github.io/en/showcase/hugo/hugo-theme-zdoc/</loc>
+    <loc>http://bangtedy.github.io/en/showcase/teaching/hugo-theme-zzo/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url><url>
     <loc>http://bangtedy.github.io/en/</loc>
@@ -108,7 +108,7 @@
     <loc>http://bangtedy.github.io/en/posts/shortcodes/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url><url>
-    <loc>http://bangtedy.github.io/en/showcase/hugo/</loc>
+    <loc>http://bangtedy.github.io/en/showcase/teaching/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
   </url><url>
     <loc>http://bangtedy.github.io/en/showcase/</loc>
