@@ -75,6 +75,12 @@
                 href="http://bangtedy.github.io/en/tags/"
                 />
   </url><url>
+    <loc>http://bangtedy.github.io/en/publication/book/book_any_folder_name_1/</loc>
+    <lastmod>2022-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://bangtedy.github.io/en/publication/</loc>
+    <lastmod>2022-01-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://bangtedy.github.io/en/posts/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
@@ -97,9 +103,6 @@
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url><url>
     <loc>http://bangtedy.github.io/en/publication/misc/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-  </url><url>
-    <loc>http://bangtedy.github.io/en/publication/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url><url>
     <loc>http://bangtedy.github.io/en/tags/shortcode/</loc>
@@ -305,9 +308,6 @@
   </url><url>
     <loc>http://bangtedy.github.io/en/publication/article/article_any_folder_name_1/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://bangtedy.github.io/en/publication/book/book_any_folder_name_1/</loc>
-    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://bangtedy.github.io/en/publication/misc/misc_any_folder_name_1/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
