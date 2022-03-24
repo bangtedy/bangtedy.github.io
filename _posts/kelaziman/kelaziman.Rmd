@@ -1,0 +1,21 @@
+---
+title: "Kelaziman"
+description: |
+  
+author: Tedy Herlambang
+date: 2022-03-25
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Kelaziman
+
+n kebiasaan (yang sudah umum): memakan sirih merupakan ~ bagi orang tua-tua kita dulu [KBBI Daring](https://kbbi.kemdikbud.go.id/entri/kelaziman)
+
+

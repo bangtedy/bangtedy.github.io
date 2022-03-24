@@ -1,0 +1,72 @@
+---
+title: "Penyalur Kebaikan"
+description: |
+  What's the fastest way to provide value to someone else?
+author: 
+  - name: Tedy Herlambang
+    url: https://bangtedy.github.io
+date: 2022-03-26
+draft: false
+base_url: https://bangtedy.github.io
+twitter:
+  creator: "@t_hlb"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Kekayaan "tercipta"" ketika suatu aset pindah dari nilai pemakaian rendah ke tinggi[^1]. 
+
+[^1]: lihat misalnya Luke M. Froeb, dkk: *Managerial Economics: A Problem Solving Approach*, halaman 16. 
+Setiap aset yang kurang termanfaatkan merupakan potensi untuk transaksi yang menghasilkan kekayaaan. Penyalur TKI memindahkan ribuan orang dari nilai pemakaian "rendah" ke nilai pemakaian yang lebih "tinggi".
+
+Sains dan seninya adalah mengindentifikasi aset-aset ini kemudian menemukan tempat/pembeli yang menilai lebih tinggi.
+
+Bagi seorang calon pembeli kursi, nilai kursi yang ingin dibeli adalah rupiah tertinggi yang mau dia keluarkan (dibanding manfaatnya: setiap orang punya selera tersendiri sehingga manfaat suatu barang bersifat subyektif). Bagi si penjual kursi, nilai kursi yang ditawar oleh pembeli kursi tadi adalah rupiah terendah yang mau dia terima setelah menghitung pengorbanan tenaga, waktu, plus keuntungan.
+
+Si pembeli akan membeli kursi jika harganya sama atau lebih rendah dari nilai yang dia tetapkan untuk kursi itu. Si penjual, dengan alasan yang sama, akan menjualnya jika harga tawaran diatas nilai yang dia tetapkan. Jika kondisi ini tidak terpenuhi transaksi tidak akan terjadi.
+
+Seorang *entrepreneur* akan mencari partner, karyawan, meminjam modal untuk mewujudkan ide produk/layanannya. Secara esensi, ide si *entrepreneur* adalah memindahkan tenaga kerja dan kapital dari nilai penggunaan rendah ke nilai penggunaan tinggi yang terwujud dalam bentuk barang, layanan atau solusi yang ditawarkan.
+
+Sukses atau tidak tergantung pada apakah "nilai" yang ditawarkan oleh si *entrepreneur* diterima atau tidak di pasar.
+
+Yayasan-yayasan sebagai pendiri universitas-universitas adalah juga penyalur. Mereka merekrut dosen, berinvestasi milyaran rupiah untuk gedung-gedung, laboratorium, peralatan dan buku-buku, mendirikan universitas swasta, kemudian "menawarkan" jasanya ke mahasiswa.
+
+### Efisiensi
+
+Ekonom sering terobsesi efisiensi.Suatu perekonomian dikatakan efisien jika semua aset berada pada nilai tertinggi penggunaannya (surplus masyarakat paling besar). Para ekonom itu mengidentifikasi aset-aset dengan nilai penggunaan rendah kemudian memikirkan kebijakan-kebijakan publik untuk "memindahkan" aset itu ke nilai penggunaan yang lebih tinggi.
+
+Kebijakan ekonomi yang baik akan memudahkan tersalurnya aset-aset ke pemakaian yang lebih tinggi. Kebijakan yang buruk menghambatnya, bahkan memindahkan aset ke nilai penggunaan yang lebih rendah.
+
+Analisa baik dan buruk kebijakan ekonomi tidak mudah. Banyak hal harus dipertimbangkan: dampak yang diinginkan maupun dampak ikutan yang tidak diinginkan, keberlanjutannya (*sustainability*), tidak hanya pada satu kelompok tapi pada semua golongan.
+
+### Penyalur Kebaikan
+
+Kekayaan diartikan sebagai akumulasi aset-aset yang dapat digunakan untuk menghasilkan pendapatan dan menambah lagi kekayaan. Aset-aset tidak hanya finansial.
+
+Anelski[^2] mengemukakan lima modal penting di dalam ekonomi, yaitu
+
+[^2]: lihat misalnya Mark Anielski: *The Economics of Happiness Building Genuine Wealth*.
+
+1.  sumberdaya manusia (*human capital*) --- badan, pikiran, jiwa, kemampuan, keimanan, ketakwaan;
+2.  modal sosial (*social capital*) --- mutu dan kekuatan hubungan antar manusia: tingkat kepercayaan, gotong royong, keperdulian, kejujuran, toleransi;
+3.  kekayaan alam (*natural capital*) --- segala hal di alam (tumbuhan, hewan, kontur, iklim) yang mendukung ekosistem kehidupan;
+4.  modal fisik (*built capital*) ---infrastruktur, gedung-gedung, jalan-jalan, mesin-mesin, peralatan, barang-barang tahan lama;
+5.  kekayaan finansial (*financial capital*) --- uang dan aset lancar lainnya yang berfungsi dan diterima sebagai alat pembayaran transaksi atau hutang.
+
+Masih menurut Anelski, tiga kapital yang pertama adalah yang paling utama perannya bagi terciptanya *genuine wealth*. Karena kelima kapital itu saling melengkapi/komplementer. Seperti hubungan motor dengan bensin, motor bagus tapi tidak ada bensinnya, motor tidak bisa jalan, kekurangan pada salah satu unsur membatasi fungsi unsur lainnya.
+
+Khususnya kekayaan finansial akan cepat menjadi tidak berharga ketika kekayaan alam terkuras habis. Rumah mewah menjadi tidak berharga ketika seluruh lingkungan, air, tanah atau udara sekitarnya sangat tercemar.
+
+Rendahnya tingkat kepercayaan (modal sosial) akan membatasi nilai dari pengetahuan (sumberdaya manusia), dst. Fakta bahwa kekayaaan finansial dan fisik adalah kategori yang paling mudah diukur dan dihitung memang telah membelokkan perhatian kita terlalu jauh ke arahnya.
+
+Kita semua memiliki jatah waktu terbatas seperti jam pasir ⏳. Apakah kita ikut menjadi penyalur kebaikan dengan memindahkan "aset" ke tempat yang lebih tinggi? Terutama aset no 1,2 dan 3? Apakah kita ikut menyalurkan kejujuran, toleransi, keperdulian dan ketaqwaan ke sekeliling kita?
+
+
+
+
