@@ -2,18 +2,18 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "BurSary",
-      "description": "Ingat-ingat yang biasanya, perhatikan yang tidak lazim",
+      "title": "About this blog",
+      "description": "Ingat-ingat yang biasa, perhatikan yang tidak lazim",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-03-24T23:36:03+07:00"
+      "last_modified": "2022-03-25T13:55:01+07:00"
     },
     {
       "path": "index.html",
-      "title": "BurSary",
+      "title": "Blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-03-24T23:36:04+07:00"
+      "last_modified": "2022-03-25T13:55:03+07:00"
     }
   ],
   "collections": ["posts/posts.json"]

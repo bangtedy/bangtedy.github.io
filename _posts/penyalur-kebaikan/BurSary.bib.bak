@@ -1,0 +1,10 @@
+@Book{Froeb2018,
+  author    = {Froeb, L.M. and McCann, B.T. and Shor, M. and Ward, M.R.},
+  publisher = {Cengage Learning Asia Pte Limited},
+  title     = {Managerial Economics: A Problem Solving Approach},
+  year      = {2018},
+  isbn      = {9789814846356},
+  url       = {https://books.google.co.id/books?id=n6MHyAEACAAJ},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
