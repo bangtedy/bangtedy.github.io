@@ -1,9 +1,42 @@
 ---
-title: "About this blog"
+title: "Melihat yang ada..,"
 description: |
-  Ingat-ingat yang biasa, perhatikan yang tidak lazim
+  ..bukan hanya yang dicari. Mengingat yang biasa, yang tak kerap tersua. 
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+*kerap*
+
+### adverbia
+
+- (KE)KERAP(AN) acap, acap-acap, acap kali, berkali-kali, kerap, kerap kali, sering, sering kali 
+
+### adjektiva 
+
+- (KE)KERAP(AN) frekuentatif; repetitif 
+- (KE)KERAP(AN) frekuen, sering 
+- (KE)KERAP(AN) ajek, konstan, kronis, terus-menerus 
+- (KE)KERAP(AN) biasa, lazim; ritual, tradisional 
+- (KE)KERAP(AN) berkala, periodik; reguler 
+
+### adverbia 
+- (KE)KERAP(AN) selalu, senantiasa, terus-menerus, tunak 
+
+### nomina 
+- (KE)KERAP(AN) frekuensi, kekerapan, keseringan 
+- (KE)KERAP(AN) iterasi, pengulangan, perturutan, perulangan, repetisi 
+- (KE)KERAP(AN) daur, interval, jangka, periode, periodisasi, ritme, siklus 
+- (KE)KERAP(AN) adat, cara, kebiasaan, tradisi 
+- (KE)KERAP(AN) satuan: kali, persen 
+
+### verba
+
+- (KE)KERAP(AN) mengulangi; berturut-turut, berulang kali, berulang-ulang, beruntun, mengacapkan, mengerapkan, menyeringkan 
+- (KE)KERAP(AN) memperkerap, mempersering
+
+Sumber: [tesaurus kemdikbud](http://tesaurus.kemdikbud.go.id/tematis/lema/kerap)
+
+
