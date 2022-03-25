@@ -1,9 +1,0 @@
----
-title: "BurSary"
-description: |
-  Ingat-ingat yang biasanya, perhatikan yang tidak lazim
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
