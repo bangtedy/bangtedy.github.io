@@ -9,21 +9,12 @@
     <generator>Distill</generator>
     <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>Welcome to My Blog</title>
-      <dc:creator>Tedy Herlambang</dc:creator>
-      <link>https://bangtedy.github.io/posts/welcome</link>
-      <description>Welcome to our new blog, My Blog. We hope you enjoy 
-reading what we have to say!</description>
-      <guid>https://bangtedy.github.io/posts/welcome</guid>
-      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Penyalur Kebaikan</title>
       <dc:creator>Tedy Herlambang</dc:creator>
       <link>https://bangtedy.github.io/posts/penyalur-kebaikan</link>
       <description>What's the fastest way to provide value to someone else?</description>
       <guid>https://bangtedy.github.io/posts/penyalur-kebaikan</guid>
-      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
