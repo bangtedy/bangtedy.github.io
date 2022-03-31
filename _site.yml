@@ -7,7 +7,6 @@ output_dir: "docs"
 
 collections:
   posts:
-    share: [twitter, linkedin, facebook]  
 
 navbar:
   right:
