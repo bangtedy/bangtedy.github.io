@@ -10,16 +10,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Saya dosen/tutor beberapa mata kuliah berikut:
 
-- PAGR2105: Mikroekonomi &nbsp; [<a href="https://bangtedy.github.io/mikroekonomi/"><i class="fas fa-globe"></i></a>]
+- PAGR2105: Mikroekonomi&nbsp; [<a href="https://bangtedy.github.io/mikroekonomi/"><i class="fas fa-globe"></i></a>]
 - PAGR2213: Makroekonomi
-- ESPA4318: Sistem Ekonomi &nbsp; [<a href="https://bangtedy.github.io/sistemekonomi/"><i class="fas fa-globe"></i></a>]
-- ESPA4312: Ekonometrika &nbsp; [<a href="https://bangtedy.github.io/ekonometrika/"><i class="fas fa-globe"></i></a>]
+- ESPA4318: Sistem Ekonomi&nbsp; [<a href="https://bangtedy.github.io/sistemekonomi/"><i class="fas fa-globe"></i></a>]
+- ESPA4312: Ekonometrika&nbsp; [<a href="https://bangtedy.github.io/ekonometrika/"><i class="fas fa-globe"></i></a>]
 - PAGR2319: Manajemen Risiko
 - PAGR2531: Analisis Investasi
-- PAGR2427: Manajemen Keuangan &nbsp; [<a href="https://bangtedy.github.io/menkeu/"><i class="fas fa-globe"></i></a>]
-- EKSI4203: Teori Portofolio dan Analisis Investasi &nbsp; [<a href="https://bangtedy.github.io/porto/"><i class="fas fa-globe"></i></a>]
-- EKMA4215: Manajemen Operasi &nbsp; [<a href="https://bangtedy.github.io/mop/"><i class="fas fa-globe"></i></a>]
-- EKMA4434: Sistem Informasi Manajemen &nbsp; [<a href="https://bangtedy.github.io/sim/"><i class="fas fa-globe"></i></a>]
-- ESPA4415: Ekonomi Pertanian &nbsp; [<a href="https://bangtedy.github.io/etan/"><i class="fas fa-globe"></i></a>]
-- PA1431: Wawasan Agribisnis &nbsp; [<a href="https://bangtedy.github.io/wabis/"><i class="fas fa-globe"></i></a>]
-- PAGR2637: Kepemimpinan Agribisnis &nbsp; [<a href="https://bangtedy.github.io/pimagri/"><i class="fas fa-globe"></i></a>]
+- PAGR2427: Manajemen Keuangan&nbsp; [<a href="https://bangtedy.github.io/menkeu/"><i class="fas fa-globe"></i></a>]
+- EKSI4203: Teori Portofolio dan Analisis Investasi&nbsp; [<a href="https://bangtedy.github.io/porto/"><i class="fas fa-globe"></i></a>]
+- EKMA4215: Manajemen Operasi&nbsp; [<a href="https://bangtedy.github.io/mop/"><i class="fas fa-globe"></i></a>]
+- EKMA4434: Sistem Informasi Manajemen&nbsp; [<a href="https://bangtedy.github.io/sim/"><i class="fas fa-globe"></i></a>]
+- ESPA4415: Ekonomi Pertanian&nbsp; [<a href="https://bangtedy.github.io/etan/"><i class="fas fa-globe"></i></a>]
+- PA1431: Wawasan Agribisnis&nbsp; [<a href="https://bangtedy.github.io/wabis/"><i class="fas fa-globe"></i></a>]
+- PAGR2637: Kepemimpinan Agribisnis&nbsp; [<a href="https://bangtedy.github.io/pimagri/"><i class="fas fa-globe"></i></a>]

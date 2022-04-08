@@ -1,0 +1,14 @@
+---
+title: "Books"
+description: |
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Saya menulis beberapa buku berikut:
+
+- Analisis Regresi dengan Menggunakan R&nbsp; [<a href="https://bangtedy.github.io/analisisregresi/"><i class="fas fa-book"></i></a>]
+- Analisis Faktor dengan Menggunakan R&nbsp; [<a href="https://bangtedy.github.io/analisisfaktor/"><i class="fas fa-book"></i></a>]
