@@ -5,29 +5,29 @@
       "title": "Melihat yang ada..",
       "description": "., bukan hanya yang dicari. Mengingat yang biasa, yang tak kerap terjumpa ",
       "author": [],
-      "contents": "\r\nkerap\r\nadverbia\r\n(KE)KERAP(AN) acap, acap-acap, acap kali, berkali-kali, kerap, kerap\r\nkali, sering, sering kali\r\nadjektiva\r\n(KE)KERAP(AN) frekuentatif; repetitif\r\n(KE)KERAP(AN) frekuen, sering\r\n(KE)KERAP(AN) ajek, konstan, kronis, terus-menerus\r\n(KE)KERAP(AN) biasa, lazim; ritual, tradisional\r\n(KE)KERAP(AN) berkala, periodik; reguler\r\nadverbia\r\n(KE)KERAP(AN) selalu, senantiasa, terus-menerus, tunak\r\nnomina\r\n(KE)KERAP(AN) frekuensi, kekerapan, keseringan\r\n(KE)KERAP(AN) iterasi, pengulangan, perturutan, perulangan,\r\nrepetisi\r\n(KE)KERAP(AN) daur, interval, jangka, periode, periodisasi, ritme,\r\nsiklus\r\n(KE)KERAP(AN) adat, cara, kebiasaan, tradisi\r\n(KE)KERAP(AN) satuan: kali, persen\r\nverba\r\n(KE)KERAP(AN) mengulangi; berturut-turut, berulang kali,\r\nberulang-ulang, beruntun, mengacapkan, mengerapkan, menyeringkan\r\n(KE)KERAP(AN) memperkerap, mempersering\r\nSumber: tesaurus\r\nkemdikbud\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-04-08T17:06:55+07:00"
+      "contents": "\r\n\r\n\r\nkerap\r\n\r\n\r\nadjektiva\r\n(KE)KERAP(AN) frekuentatif; repetitif\r\n(KE)KERAP(AN) frekuen, sering\r\n(KE)KERAP(AN) ajek, konstan, kronis, terus-menerus\r\n(KE)KERAP(AN) biasa, lazim; ritual, tradisional\r\n(KE)KERAP(AN) berkala, periodik; reguler\r\nSumber: tesaurus\r\nkemdikbud\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-04-08T20:04:53+07:00"
     },
     {
       "path": "books.html",
       "title": "Books",
       "author": [],
-      "contents": "\r\nSaya menulis beberapa buku berikut:\r\nAnalisis Regresi dengan Menggunakan R \r\n[]\r\nAnalisis Faktor dengan Menggunakan R \r\n[]\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-04-08T17:07:15+07:00"
+      "contents": "\r\nSaya menulis beberapa buku berikut:\r\nAnalisis Regresi dengan Menggunakan R \r\n[]\r\nAnalisis Faktor dengan Menggunakan R \r\n[]\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-04-08T20:05:00+07:00"
     },
     {
       "path": "index.html",
       "title": "Blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-04-08T17:07:24+07:00"
+      "last_modified": "2022-04-08T20:05:05+07:00"
     },
     {
       "path": "teaching.html",
       "title": "Teaching",
       "author": [],
-      "contents": "\r\nSaya dosen/tutor beberapa mata kuliah berikut:\r\nPAGR2105: Mikroekonomi \r\n[]\r\nPAGR2213: Makroekonomi\r\nESPA4318: Sistem Ekonomi \r\n[]\r\nESPA4312: Ekonometrika \r\n[]\r\nPAGR2319: Manajemen Risiko\r\nPAGR2531: Analisis Investasi\r\nPAGR2427: Manajemen Keuangan \r\n[]\r\nEKSI4203: Teori Portofolio dan Analisis Investasi \r\n[]\r\nEKMA4215: Manajemen Operasi \r\n[]\r\nEKMA4434: Sistem Informasi Manajemen \r\n[]\r\nESPA4415: Ekonomi Pertanian \r\n[]\r\nPA1431: Wawasan Agribisnis \r\n[]\r\nPAGR2637: Kepemimpinan Agribisnis \r\n[]\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-04-08T17:07:30+07:00"
+      "contents": "\r\nSaya dosen/tutor beberapa mata kuliah berikut:\r\nPAGR2105: Mikroekonomi \r\n[]\r\nPAGR2213: Makroekonomi\r\nESPA4318: Sistem Ekonomi \r\n[]\r\nESPA4312: Ekonometrika \r\n[]\r\nPAGR2319: Manajemen Risiko\r\nPAGR2531: Analisis Investasi\r\nPAGR2427: Manajemen Keuangan \r\n[]\r\nEKSI4203: Teori Portofolio dan Analisis Investasi \r\n[]\r\nEKMA4215: Manajemen Operasi \r\n[]\r\nEKMA4434: Sistem Informasi Manajemen \r\n[]\r\nESPA4415: Ekonomi Pertanian \r\n[]\r\nPA1431: Wawasan Agribisnis \r\n[]\r\nPAGR2637: Kepemimpinan Agribisnis \r\n[]\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-04-08T20:05:14+07:00"
     }
   ],
   "collections": ["posts/posts.json"]
