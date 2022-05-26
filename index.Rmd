@@ -2,4 +2,21 @@
 title: "Blog"
 site: distill::distill_website
 listing: posts
+creative_commons: CC BY
 ---
+
+```{r, include=FALSE, results='asis'}
+library(metathis)
+
+meta() %>%
+  meta_social(
+    title = "Tedy Herlambang",
+    description = "My Blog",
+    url = "https://bangtedy.github.io/",
+    image = "",
+    image_alt = "",
+    og_type = "website",
+    twitter_card_type = "summary",
+    twitter_site = NULL
+  )
+```
