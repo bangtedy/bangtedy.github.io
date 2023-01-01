@@ -1,7 +1,7 @@
 ---
 title: "Melihat yang ada.."
 description: |
-  ., bukan hanya yang dicari. Mengingat yang biasa, yang tak kerap terjumpa 
+  ., bukan hanya yang dicari. Mengingat yang biasa, yang tak kerap terjumpa...anomali...heavy-tailed. 
 ---
 
 ```{r setup, include=FALSE}
@@ -9,18 +9,14 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <body>
-  <p style="color:rgba(255,0,0,0.5);">kerap</p>
+  <p style="color:rgba(255,0,0,0.5);">kerap, anomali</p>
 </body>
 
 
-### adjektiva 
-
-- (KE)KERAP(AN) frekuentatif; repetitif 
-- (KE)KERAP(AN) frekuen, sering 
-- (KE)KERAP(AN) ajek, konstan, kronis, terus-menerus 
 - (KE)KERAP(AN) biasa, lazim; ritual, tradisional 
 - (KE)KERAP(AN) berkala, periodik; reguler 
+- Anomali tidak seperti yang pernah ada; penyimpangan dari yang sudah ada
 
-Sumber: [tesaurus kemdikbud](http://tesaurus.kemdikbud.go.id/tematis/lema/kerap)
+Sumber: [tesaurus kemdikbud](http://tesaurus.kemdikbud.go.id/tematis/lema/kerap) dan [KBBI Daring](https://kbbi.kemdikbud.go.id/entri/anomali)
 
 
