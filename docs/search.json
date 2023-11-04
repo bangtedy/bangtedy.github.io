@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Posts",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJul 29, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 26, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Fatal Scent\n\n\n\n\n\n\n\nscent\n\n\ngrowth\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 4, 2023\n\n\nTedy Herlambang\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -26,5 +26,12 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/fatal-scent/index.html",
+    "href": "posts/fatal-scent/index.html",
+    "title": "Fatal Scent",
+    "section": "",
+    "text": "Penglihatan dan suara adalah indra fisik, namun penciuman dan pengecapan bersifat kimiawi: saat Anda menghirup aroma bunga jagung di ladang , padi di sawah yang sedang “bunting”, atau aroma masakan ibu Anda, Anda memasukkan molekul ke dalam tubuh Anda, dan hal ini membuat penciuman menjadi indera yang sangat intim.\nMenurut Proust, setiap jam dalam hidup kita disimpan dalam bau dan rasa, dan ketika bau atau rasa itu dialami kembali, ingatan akan terpicu. Alasan yang lebih sederhana mengapa hubungan antara penciuman dan ingatan begitu kuat adalah karena saraf penciuman mengangkut informasi ke sistem limbik otak dan ke korteksnya.\nIndra penciuman juga mempunyai kekuatan untuk menekan otak kiri yang rasional dan kritis serta merangsang otak kanan yang kreatif dan suka melamun, sehingga membangkitkan ingatan dengan kekuatan emosional yang lebih besar dibandingkan indera lainnya.\nKipling menulis, “Aroma lebih pasti daripada suara atau pemandangan yang membuat hati sanubari Anda retak.” Sekarang cobalah mencium persamaan model pertumbuhan Solow berikut\n\\[\nY_t=f(K_t,L_t, F_t, Z_t)\n\\]\ndimana Y adalah Produk Domestik Bruto (PDB) riil atau output agregat, L adalah angkatan kerja, K adalah persediaan modal, F adalah tingkat perkembangan keuangan, Z adalah vektor input faktor lain yang mungkin relevan dengan proses produksi agregat, dan subskrip t menunjukkan waktu.\nApakah yang Anda rasakan? Apakah aroma secuil persamaan ini langsung mengingatkan Anda pada sebuah kejadian di masa kanak-kanak, atau pemandangan yang terlupakan, atau kehadiran kekasih yang telah lama hilang? Betul: ada aroma-aroma tertentu yang langsung mengingatkan kita pada sesuatu, sering kali dengan halusinasi."
   }
 ]
