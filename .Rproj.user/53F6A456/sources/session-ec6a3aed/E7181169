@@ -3,7 +3,7 @@
     "path": "~/buntal/bangtedy.github.io/posts/parfum-mawar/index.qmd",
     "project_path": "posts/parfum-mawar/index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "554770355",
     "contents": "",
     "dirty": false,
     "created": 1699408236412.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "2:0",
-        "cursorPosition": "28,24",
-        "scrollLine": "22"
+        "cursorPosition": "26,0",
+        "scrollLine": "23"
     },
     "folds": "",
-    "lastKnownWriteTime": 1699408662,
+    "lastKnownWriteTime": 1699419283,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1699408662932,
+    "last_content_update": 1699419283933,
     "read_only": false,
     "read_only_alternatives": []
 }
