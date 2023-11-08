@@ -3,7 +3,7 @@ title: "Parfum Mawar"
 author: "Tedy Herlambang"
 date: "2023-11-08"
 categories: [sumber daya manusia, pertumbuhan]
-image: "rose.png"
+image: "ivan-jevtic-p7mo8-CG5Gs-unsplash.jpg"
 ---
 
 John Maynard Keynes, ekonom besar Inggris, pernah mengatakan apa yang membuatnya tertarik pada ilmu ekonomi; katanya, hal tersebut karena merupakan 'ketelitian intelektual yang dipadukan dengan potensinya untuk kebaikan'.
