@@ -17,6 +17,7 @@ Nabokov menulis, "Aroma lebih pasti daripada suara atau pemandangan yang membuat
 $$
 Y_t=f(K_t,L_t, F_t, Z_t)
 $$
+<img src="https://openclipart.org/download/158701/monkeywrench.svg" style="max-width:15%;min-width:40px;float:right;" alt="wrench" />
 
 dimana Y adalah Produk Domestik Bruto (PDB) riil atau output agregat, L adalah angkatan kerja, K adalah persediaan modal, F adalah tingkat perkembangan keuangan, Z adalah vektor input faktor lain yang mungkin relevan dengan proses produksi agregat, dan subskrip t menunjukkan waktu.
 
