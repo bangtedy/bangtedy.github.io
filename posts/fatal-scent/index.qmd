@@ -16,9 +16,11 @@ Nabokov menulis, "Aroma lebih pasti daripada suara atau pemandangan yang membuat
 
 $$
 Y_t=f(K_t,L_t, F_t, Z_t)
-$$
-<img src="https://openclipart.org/download/158701/monkeywrench.svg" style="max-width:15%;min-width:40px;float:right;" alt="wrench" />
+$$ <img src="https://openclipart.org/download/158701/monkeywrench.svg" alt="wrench" style="max-width:15%;min-width:40px;float:right;"/>
 
 dimana Y adalah Produk Domestik Bruto (PDB) riil atau output agregat, L adalah angkatan kerja, K adalah persediaan modal, F adalah tingkat perkembangan keuangan, Z adalah vektor input faktor lain yang mungkin relevan dengan proses produksi agregat, dan subskrip t menunjukkan waktu.
 
-Apakah yang Anda rasakan? Apakah aroma secuil persamaan ini langsung mengingatkan Anda pada sebuah kejadian di masa kanak-kanak, atau pemandangan yang terlupakan, atau kehadiran kekasih yang telah lama hilang? Betul: ada aroma-aroma tertentu yang langsung mengingatkan kita pada sesuatu, terkadang disertai dengan halusinasi.
+Apakah yang Anda rasakan? Apakah aroma secuil persamaan ini langsung mengingatkan Anda pada sebuah kejadian di masa kanak-kanak, atau pemandangan yang terlupakan, atau kehadiran kekasih yang telah lama hilang? Betul: ada aroma-aroma tertentu yang langsung mengingatkan kita pada sesuatu, terkadang disertai dengan halusinasi. 
+
+Images from [openclipart](https://openclipart.org/)
+

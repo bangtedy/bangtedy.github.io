@@ -22,8 +22,10 @@ Ekonom biasanya meregresikan skor korupsi terhadap PDB per kapita untuk menilai 
 
 Bagaimana jika variabel penyebab dan konsekuensinya adalah target bergerak yang berubah seiring berjalannya waktu? Bahwa tingkat korupsi bergerak seiring dengan pergerakan perekonomian dan pertumbuhan ekonomi. Di dalam realitas pembangunan politik-ekonomi hampir segala sesuatunya bergerak. Bisakah kita memahami kenyataan ini tanpa berusaha menjaga segala sesuatunya tetap konstan?
 
-<img src="https://openclipart.org/download/327663/sketchrose-colour.svg" style="max-width:15%;min-width:40px;float:right;" alt="Mawar"/>
+<img src="https://openclipart.org/download/327663/sketchrose-colour.svg" alt="Mawar" style="max-width:15%;min-width:40px;float:right;"/>
 
 Konon dari semua bunga, mawar adalah yang paling dicintai secara universal terutama karena wanginya, tampilan yang cantik dan warna menawan. Konon pula, ada seorang raja yang memenuhi kanal-kanal tamannya dengan air mawar. Ketika salah satu putri sedang keluar mendayung, dia melihat sampah aneh di permukaan kanal yang ketika disaring ternyata merupakan parfum baru yang menakjubkan. Sampah tersebut disebabkan oleh panas matahari yang memisahkan air dari minyak esensial mawar.
 
-Pada saat bau busuk menyebar ke masyarakat, diperlukan awan asap yang berbau harum untuk menutupinya. Ketika aroma udara sangat buruk para pembesar membawa sapu tangan dan wangi-wangian untuk menyamarkan bau tersebut. Korupsi, kolusi dan penyalahgunaan kekuasaan telah memicu ketidakpuasan masyarakat. Bagaimanakah cara memisahkan minyak esensial mawar dari air kanal?
+Pada saat bau busuk menyebar ke masyarakat, diperlukan awan asap yang berbau harum untuk menutupinya. Ketika aroma udara sangat buruk para pembesar membawa sapu tangan dan wangi-wangian untuk menyamarkan bau tersebut. Korupsi, kolusi dan penyalahgunaan kekuasaan telah memicu ketidakpuasan masyarakat. Bagaimanakah cara memisahkan minyak esensial mawar dari air kanal? 
+
+Images from [Ivan Jevtic](https://unsplash.com/photos/shallow-focus-photography-of-red-rose-p7mo8-CG5Gs) on [Unsplash](https://unsplash.com/), and [openclipart](https://openclipart.org/)
