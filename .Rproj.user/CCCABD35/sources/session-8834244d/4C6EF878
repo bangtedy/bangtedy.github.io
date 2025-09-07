@@ -3,7 +3,7 @@
     "path": "D:/DitGard/bangtedy.github.io/posts/fatal-scent/index.qmd",
     "project_path": "posts/fatal-scent/index.qmd",
     "type": "quarto_markdown",
-    "hash": "1325410009",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1757205732692.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
-        "scrollLine": "0",
-        "rmdVisualModeLocation": "613:0"
+        "scrollLine": "8",
+        "rmdVisualModeLocation": "117:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1757205895,
+    "lastKnownWriteTime": 1757209695,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1757205895962,
+    "last_content_update": 1757209695439,
     "read_only": false,
     "read_only_alternatives": []
 }
