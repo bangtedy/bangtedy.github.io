@@ -3,7 +3,7 @@ title: "Fatal Scent"
 author: "Tedy Herlambang"
 date: "2023-11-04"
 categories: [Produk Domestik Bruto, kerakusan]
-image: "trees.png"
+image: "ruslan-zh-t0ZfzT8FopE-unsplash.jpg"
 ---
 
 Nabokov pernah menulis, “*Aroma lebih pasti daripada suara atau pemandangan yang membuat hati sanubari Anda retak*.” Begitu pula dengan pertumbuhan ekonomi: ia tidak hanya terlihat dalam angka, tetapi juga dapat “tercium” dari harmoni faktor-faktor yang membentuknya. Bayangkan model pertumbuhan Solow sebagai sebuah parfum yang rumit.
@@ -20,4 +20,4 @@ Ibn Khaldun pernah mengingatkan: «الظلم مؤذن بخراب العمران
 
 Dan seperti diingatkan Rumi, “Keindahan yang sejati bukanlah apa yang terlihat oleh mata, melainkan aroma kebenaran yang dirasakan oleh jiwa.”
 
-Images from [openclipart](https://openclipart.org/)
+Images from [Ruslan Zh](https://unsplash.com/@chupzzz) on [Unsplash](https://unsplash.com/), and [openclipart](https://openclipart.org/)
