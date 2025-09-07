@@ -6,7 +6,7 @@ categories: [korupsi, ilmu ekonomi]
 image: "ivan-jevtic-p7mo8-CG5Gs-unsplash.jpg"
 ---
 
-John Maynard Keynes, sang ekonom besar dari Inggris, pernah mengaku bahwa pesona ilmu ekonomi terletak pada *“paduan antara ketelitian intelektual dan potensinya untuk kebaikan.”* Dalam ungkapan itu seakan tergambar bahwa ilmu, bila diarahkan dengan jernih, dapat menjadi cahaya bagi kehidupan bersama.
+John Maynard Keynes, sang ekonom besar dari Inggris, pernah mengaku bahwa pesona ilmu ekonomi terletak pada “*perpaduan antara ketelitian intelektual dan potensinya untuk kebaikan*.” Dalam ungkapan itu seakan tergambar bahwa ilmu, bila diarahkan dengan jernih, dapat menjadi cahaya bagi kehidupan bersama.
 
 <img src="https://openclipart.org/download/327663/sketchrose-colour.svg" alt="Mawar" style="max-width:15%;min-width:40px;float:right;"/>
 
