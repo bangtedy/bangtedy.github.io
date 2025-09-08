@@ -9,14 +9,12 @@ image: "ruslan-zh-t0ZfzT8FopE-unsplash.jpg"
 Nabokov pernah menulis, “*Aroma lebih pasti daripada suara atau pemandangan yang membuat hati sanubari Anda retak*.” Begitu pula dengan pertumbuhan ekonomi: ia tidak hanya terlihat dalam angka, tetapi juga dapat “tercium” dari harmoni faktor-faktor yang membentuknya. Bayangkan model pertumbuhan Solow sebagai sebuah parfum yang rumit.
 
 $$
-Y_t=f(K_t,L_t, F_t, Z_t)
+Y_t=f(L_t, K_t, F_t, Z_t)
 $$ <img src="https://openclipart.org/download/352699/dodecagon-flower-reignited-polyprismatic-2.svg" alt="Mandala" style="max-width:15%;min-width:40px;float:right;"/>
 
-Dasarnya adalah *L*, tenaga kerja—seperti nada bawah (*base note*) yang memberi keteguhan dan daya tahan. Di atasnya berdiri *K*, persediaan modal, bagaikan nada tengah (*heart note*) yang menentukan tubuh dan karakter aroma. *F*, perkembangan keuangan, hadir sebagai nada atas (*top note*) yang memberi kesegaran awal, memudahkan aliran dan persebaran wangi. Sementara itu, *Z* adalah campuran unsur-unsur lain—institusi, teknologi, atau sumber daya alam—yang memperkaya komposisi. Dari perpaduan inilah lahir *Y*, Produk Domestik Bruto (PDB) atau output agregat, yang kita hirup sebagai hasil akhirnya. Subskrip *t* menandai bahwa wangi ini tidak statis, melainkan berubah seiring waktu.
+Dasarnya adalah *L*, sumberdaya manusia—seperti nada bawah (*base note*) yang memberi keteguhan dan daya tahan. Di atasnya berdiri *K*, persediaan modal, bagaikan nada tengah (*heart note*) yang menentukan tubuh dan karakter aroma. Selanjutnya *F*, perkembangan keuangan, hadir sebagai nada atas (*top note*) yang memberi kesegaran awal, memudahkan aliran dan persebaran wangi. Sementara itu, *Z* adalah campuran unsur-unsur lain—institusi, teknologi, atau sumber daya alam—yang memperkaya komposisi. Dari perpaduan inilah lahir *Y*, Produk Domestik Bruto (PDB) atau output agregat, yang kita hirup sebagai hasil akhirnya. Subskrip *t* menandai bahwa wangi ini tidak statis, melainkan berubah seiring waktu.
 
 Namun, seperti halnya parfum, aroma pertumbuhan bisa harum ataupun menusuk. Ia bisa menjadi wewangian yang menenteramkan bila ditopang oleh keadilan, kebijakan yang bijak, dan distribusi yang merata; atau sebaliknya, ia bisa membusuk jika tercemar oleh korupsi, ketimpangan, dan kerakusan. Pertanyaannya: apa yang sesungguhnya sedang kita hirup dari pertumbuhan hari ini—harum mawar yang murni, atau sekadar wangi semu yang menutupi bau busuk di baliknya?
-
-Ibn Khaldun pernah mengingatkan: «الظلم مؤذن بخراب العمران» “Kezaliman adalah pertanda runtuhnya peradaban.”
 
 Dan seperti diingatkan Rumi, “Keindahan yang sejati bukanlah apa yang terlihat oleh mata, melainkan aroma kebenaran yang dirasakan oleh jiwa.”
 
