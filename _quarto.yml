@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Tedy Herlambang"
+  title: "Konfigurasi"
   navbar:
     right:
       - about.qmd
@@ -13,7 +13,7 @@ website:
         href: https://twitter.com/t_hlb
 format:
   html:
-    theme: cosmo
+    theme: simplex
     css: styles.css
 
 editor: visual
