@@ -3,7 +3,7 @@ title: "Tumpeng"
 author: "Tedy Herlambang"
 date: "2025-09-08"
 categories: [production possibility curve, Dutch disease]
-image: "deski-jayantoro-Gh_BvjXdBCI-unsplash.jpg"
+image: "tumpeng-backpacker.jpg"
 ---
 
 Tumpeng adalah sajak yang dimasak dengan api tradisi: kerucut nasinya menjulang bagai Mahameru, menandai hasrat manusia dan bangsa untuk mencapai puncak kemakmuran; lauk-pauknya berkelindan laksana syarat-syarat kehidupan, di mana keseimbangan lebih bernilai daripada kelimpahan yang timpang. Sebagaimana hidangan menjadi harmoni bukan karena satu rasa, demikian pula pembangunan menemukan maknanya dalam keselarasan pertumbuhan, keadilan, dan keberlanjutan—sebuah resep Utama sebagai denyut kemajuan.
@@ -14,5 +14,4 @@ Nasi Tumpeng—nasi kuning berbentuk kerucut yang dikelilingi lauk-pauk—bukan 
 
 Setiap lauk-pauk menggambarkan kondisi kausal; identitas tumpeng lahir dari konfigurasi utuh, bukan dari satu elemen. Begitu pula pembangunan: harmoni muncul dari susunan faktor—pertumbuhan, keadilan, keberlanjutan—bukan dari kekuatan terpisah. Negara yang terlalu bergantung pada sumber daya alam ibarat tumpeng dengan telur berlimpah: kaya, tetapi timpang dan rapuh, sebagaimana kutukan sumber daya atau *Dutch Disease*.
 
-
-Images from [Deski Jayantoro](https://unsplash.com/@deskijayantoro) on [Unsplash](https://unsplash.com/), and [openclipart](https://openclipart.org/)
+Images from [Backpacker Jakarta](https://backpackerjakarta.com/keunikan-kelezatan-dan-sejarah-nasi-tumpeng/), and [openclipart](https://openclipart.org/)
