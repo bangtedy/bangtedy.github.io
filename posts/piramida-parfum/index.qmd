@@ -1,7 +1,7 @@
 ---
 title: "Piramida Parfum"
 author: "Tedy Herlambang"
-date: today
+date: "2025-09-09"
 categories: [pembangunan ekonomi, myopia politik]
 image: "fulvio-ciccolo-k4E4E-Fol5s-unsplash.jpg"
 ---
