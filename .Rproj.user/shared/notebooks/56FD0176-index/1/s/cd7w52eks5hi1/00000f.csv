@@ -1,0 +1,5 @@
+"0","library(magick)"
+"0","# save image as ggplot"
+"0","my_plot_ggplot <- image_read(""D:/DitGard/bangtedy.github.io/posts/meracik-ekonomi/prism.png"") %>% "
+"0","image_ggplot(interpolate = TRUE)"
+"0","my_plot_ggplot"
