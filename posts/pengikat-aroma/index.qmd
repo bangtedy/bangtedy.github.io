@@ -1,0 +1,19 @@
+---
+title: "Institusi Pengikat Aroma"
+author: "Tedy Herlambang"
+date: "2025-09-11"
+categories: [institusi, pertumbuhan ekonomi]
+---
+
+Pembangunan ekonomi ibarat peracikan parfum. Capaian jangka pendek adalah nada atas—ledakan komoditas atau arus modal yang cepat memikat, tetapi mudah menguap. Reformasi jangka menengah adalah nada tengah—pembangunan infrastruktur, industrialisasi, dan kebijakan pendidikan yang lebih berlapis namun tetap rapuh. Fondasi jangka panjang adalah nada dasar—modal manusia, kepercayaan sosial, dan pengelolaan lintas generasi. Semua ini hanya akan bertahan bila dilekatkan oleh *fixative* (pengikat) berupa institusi yang kuat.
+
+
+```{r, echo=FALSE, out.width="90%"}
+    knitr::include_graphics("asean_inst_scores.png")
+```
+
+ASEAN memberi contoh kontras. Singapura berhasil menjadikan lembaga seperti GIC dan Temasek sebagai *fixative* yang mengubah surplus sementara menjadi aset jangka panjang. Malaysia memiliki EPF yang menopang stabilitas, meski kadang rapuh oleh tekanan politik. Indonesia pernah kehilangan momentum saat *boom* komoditas, namun kini mulai memperkuat *fixative* lewat aturan fiskal 3% dan INA. Filipina menunjukkan bagaimana remitansi yang stabil pun menguap tanpa peradilan dan birokrasi yang kredibel. Vietnam, melalui *Đổi Mới*, mencatat capaian besar, namun daya tahannya bergantung pada reformasi kelembagaan lebih lanjut.
+
+Pelajaran utamanya jelas: tanpa institusi yang berfungsi sebagai *fixative*, pertumbuhan hanyalah aroma sesaat. Dengan institusi yang kuat, pembangunan dapat menjadi wangi yang bertahan lama—sebuah parfum ekonomi yang tidak lekas pudar. Dan di sinilah letak ujian sejati bagi bangsa-bangsa: berani meracik bukan hanya wewangian yang menyenangkan saat ini, tetapi juga jejak harum yang menuntun generasi mendatang.
+
+Data from [World Intellectual Property Organization](https://www.wipo.int/en/web/global-innovation-index)

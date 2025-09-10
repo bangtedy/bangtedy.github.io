@@ -1,0 +1,15 @@
+{
+  "hash": "d135ae2cdfdadf68236883c4d05ff452",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Institusi Pengikat Aroma\"\nauthor: \"Tedy Herlambang\"\ndate: \"2025-09-11\"\ncategories: [institusi, pertumbuhan ekonomi]\n---\n\n\n\nPembangunan ekonomi ibarat peracikan parfum. Capaian jangka pendek adalah nada atas—ledakan komoditas atau arus modal yang cepat memikat, tetapi mudah menguap. Reformasi jangka menengah adalah nada tengah—pembangunan infrastruktur, industrialisasi, dan kebijakan pendidikan yang lebih berlapis namun tetap rapuh. Fondasi jangka panjang adalah nada dasar—modal manusia, kepercayaan sosial, dan pengelolaan lintas generasi. Semua ini hanya akan bertahan bila dilekatkan oleh *fixative* (pengikat) berupa institusi yang kuat.\n\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](asean_inst_scores.png){width=90%}\n:::\n:::\n\n\n\nASEAN memberi contoh kontras. Singapura berhasil menjadikan lembaga seperti GIC dan Temasek sebagai *fixative* yang mengubah surplus sementara menjadi aset jangka panjang. Malaysia memiliki EPF yang menopang stabilitas, meski kadang rapuh oleh tekanan politik. Indonesia pernah kehilangan momentum saat *boom* komoditas, namun kini mulai memperkuat *fixative* lewat aturan fiskal 3% dan INA. Filipina menunjukkan bagaimana remitansi yang stabil pun menguap tanpa peradilan dan birokrasi yang kredibel. Vietnam, melalui *Đổi Mới*, mencatat capaian besar, namun daya tahannya bergantung pada reformasi kelembagaan lebih lanjut.\n\nPelajaran utamanya jelas: tanpa institusi yang berfungsi sebagai *fixative*, pertumbuhan hanyalah aroma sesaat. Dengan institusi yang kuat, pembangunan dapat menjadi wangi yang bertahan lama—sebuah parfum ekonomi yang tidak lekas pudar. Dan di sinilah letak ujian sejati bagi bangsa-bangsa: berani meracik bukan hanya wewangian yang menyenangkan saat ini, tetapi juga jejak harum yang menuntun generasi mendatang.\n\nData from [World Intellectual Property Organization](https://www.wipo.int/en/web/global-innovation-index)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
