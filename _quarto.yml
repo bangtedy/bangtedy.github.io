@@ -13,7 +13,7 @@ website:
         href: https://twitter.com/t_hlb
 format:
   html:
-    theme: simplex
+    theme: spacelab
     css: styles.css
 
 editor: visual

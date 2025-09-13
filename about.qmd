@@ -15,4 +15,5 @@ about:
       href: https://github.com/bangtedy
 ---
 
-About this blog
+Kombinasi kondisi yang bersama-sama menghasilkan suatu hasil. Pengaruh suatu kondisi tertentu terhadap hasil tidak pernah pasti, karena bergantung pada kondisi lain yang terjadi bersamaan pada saat itu.
+
